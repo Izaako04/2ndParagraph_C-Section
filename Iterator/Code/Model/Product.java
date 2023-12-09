@@ -1,4 +1,4 @@
-package com.dienarau.talleriterator;
+package model;
 
 public class Product {
     private String id;

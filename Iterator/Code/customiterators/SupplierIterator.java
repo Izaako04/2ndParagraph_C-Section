@@ -1,4 +1,4 @@
-package com.dienarau.talleriterator.customiterators;
+package customiterators;
 
 import java.util.Iterator;
 

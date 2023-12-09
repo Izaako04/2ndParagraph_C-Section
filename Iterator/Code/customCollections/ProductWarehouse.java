@@ -1,7 +1,7 @@
 package customCollections;
 
-import com.dienarau.talleriterator.Product;
-import com.dienarau.talleriterator.customiterators.*;
+import model.Product;
+import customiterators.*;
 import java.util.Iterator;
 import java.util.List;
 

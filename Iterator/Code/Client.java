@@ -1,4 +1,4 @@
-package com.dienarau.talleriterator;
+package client;
 
 import customCollections.ProductWarehouse;
 import java.util.Iterator;
