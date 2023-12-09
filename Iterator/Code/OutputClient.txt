@@ -1,0 +1,15 @@
+Iterador para comprador Web
+Revisando si todavía hay productos disponibles
+Producto disponible
+
+Iterador para vendedor de una tienda
+Revisando si todavía hay productos disponibles en la tienda
+Producto disponible en la tienda
+
+Iterador para proveedor
+Revisando si todavía hay productos que han presentado fallas dentro del periodo de garantía
+Producto que ha presentado fallas dentro del periodo de garantía
+
+Iterador para asistente de mantenimiento
+Revisando si todavía hay productos en reparación
+Producto en reparación
